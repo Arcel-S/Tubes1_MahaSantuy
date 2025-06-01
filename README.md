@@ -7,7 +7,7 @@ Diamonds is a programming challenge. Program a bot and compete to get the highes
 -   [Project Specification](https://docs.google.com/document/d/13cbmMVXviyu8eKQ6heqgDzt4JNNMeAZO/edit)
 -   [Get Started with Diamonds](https://docs.google.com/document/d/1L92Axb89yIkom0b24D350Z1QAr8rujvHof7-kXRAp7c/edit)
 
-# Penjelasan SIngkat Algoritma Greedy
+# Penjelasan Singkat Algoritma Greedy
 Algoritma greedy adalah suatu pendekatan pemecahan masalah yang bekerja dengan membuat pilihan terbaik secara langsung 
 pada setiap langkah berdasarkan kondisi saat itu. Ia tidak memperhitungkan konsekuensi jangka panjang dari keputusan 
 yang diambil, melainkan hanya fokus pada manfaat instan yang tampak paling menguntungkan. Pendekatan ini cenderung 
@@ -20,7 +20,7 @@ untuk masalah berskala besar dengan batasan waktu komputasi.
 
     ```
     git clone https://github.com/Arcel-S/Tubes1_MahaSantuy
-    cd ./tubes1-IF2110-bot-starter-pack
+    cd ./Tubes1_MahaSantuy
     ```
 
 2. Install dependencies
